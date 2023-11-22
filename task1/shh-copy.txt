@@ -1,0 +1,1 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDF46RKD6JxME2tRgpf6Yiw4BELjOr8du16mQjO9GCyI soloviov.denis.66@gmail.com
